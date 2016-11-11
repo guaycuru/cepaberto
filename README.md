@@ -1,2 +1,2 @@
 # cepaberto
-Node.js module for the CEP Aberto (http://cepaberto.com) project.
+[Work In Progress] Node.js module for the CEP Aberto (http://cepaberto.com) project.

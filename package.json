@@ -1,0 +1,29 @@
+{
+  "name": "cepaberto",
+  "version": "0.1.0",
+  "description": "Node.JS module for the CEP Aberto (http://cepaberto.com) project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guaycuru/cepaberto.git"
+  },
+  "keywords": [
+    "cep",
+    "cepaberto"
+  ],
+  "author": "Felipe Guaycuru <felipe@guaycuru.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/guaycuru/cepaberto/issues"
+  },
+  "homepage": "https://github.com/guaycuru/cepaberto#readme",
+  "dependencies": {
+    "bluebird": "^3.4.6",
+    "lodash": "^4.16.6",
+    "request": "^2.78.0",
+    "winston": "^2.3.0"
+  }
+}
